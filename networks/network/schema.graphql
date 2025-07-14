@@ -1,3 +1,4 @@
+
 type Account @entity {
 	id: Bytes!
 	asAccessControl: AccessControl
